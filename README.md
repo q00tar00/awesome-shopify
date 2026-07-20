@@ -523,7 +523,7 @@ Unite is Shopify’s annual partner and developer conference. This is where they
 
 - ⚙️ [Huntify](https://www.huntify.io/): a leaderboard of new Shopify Apps where each day app developers will submit their apps to the community for everyone to vote on.
 
-- ⚙️ [Shopify CSV Preflight](https://shopify-7mc.pages.dev/): a free in-browser product CSV validator that catches import failures before upload.
+- ⚙️ [Preflight Kit](https://preflight-kit.pages.dev/): a free in-browser product CSV validator that catches import failures before upload.
 
 ### Shopify themes
 
